@@ -1,0 +1,16 @@
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\EmployeeApp.exe
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\EmployeeApp.deps.json
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\EmployeeApp.runtimeconfig.json
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\EmployeeApp.runtimeconfig.dev.json
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\EmployeeApp.dll
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\ref\EmployeeApp.dll
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\bin\Debug\net5.0\EmployeeApp.pdb
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.csproj.AssemblyReference.cache
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.AssemblyInfoInputs.cache
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.AssemblyInfo.cs
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.dll
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\ref\EmployeeApp.dll
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.pdb
+C:\Users\Aline.Martinez\Documents\Projects\week1\EmployeeApp\EmployeeApp\obj\Debug\net5.0\EmployeeApp.genruntimeconfig.cache
